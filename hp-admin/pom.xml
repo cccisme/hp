@@ -59,6 +59,12 @@
             <groupId>com.hp</groupId>
             <artifactId>hp-generator</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>${fastjson.version}</version>
+        </dependency>
         
     </dependencies>
 
